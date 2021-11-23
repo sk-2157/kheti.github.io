@@ -29,7 +29,7 @@ Else Install the requirements manually.
 * Django 2.1.7
 
 ```bash
-pip install Django==2.1.7
+pip install Django
 ```
 
 * pillow
